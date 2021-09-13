@@ -26,7 +26,7 @@
     </style>
 </head>
 <body>
-    <h2>Welcome to Tomcat Website</h2>
+    <h2>Welcome to Tomcat Server</h2>
     <h3>Registration Form</h3>
     <form action="HelloWorldServlet" method="get">
         <label for="name">Name</label>
